@@ -4,7 +4,7 @@ This project is a demo portfolio website that displays some of the personal proj
 
 ### Project Setup Instructions
 
-Just visit the portfolio webpage
+Just visit the portfolio webpage [here](https://cjkr.github.io/portfolio-demo/)
 
 ### Copyright and license information
 

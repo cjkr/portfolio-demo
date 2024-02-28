@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: "Roboto Slab";
+}
+
+body {
+  display: flex;
+  background-color: orange;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+  width: 100%;
+  height: auto;
+  color: white;
+}
+
+.top-left {
+  align-self: flex-start;
+}
+
+.top-right {
+  align-self: flex-end;
+}
