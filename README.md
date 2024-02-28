@@ -1,6 +1,4 @@
-## Personal Portfolio
-
-## Japheth Rono
+## Personal Portfolio - Japheth Rono
 
 This project is a demo portfolio website that displays some of the personal projects I have worked on.
 
